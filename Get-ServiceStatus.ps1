@@ -49,7 +49,7 @@ $header = "
 	<table width='100%'> 
 	<tr bgcolor='#36304a'> 
 	<td colspan='7' height='25' align='center'> 
-	<font face='tahoma' color='#d2f5ff' size='4'><strong>Disk Utilization - $titledate</strong></font> 
+	<font face='tahoma' color='#d2f5ff' size='4'><strong>Service Status - $titledate</strong></font> 
 	</td> 
 	</tr> 
     </table>
