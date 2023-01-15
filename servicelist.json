@@ -1,0 +1,22 @@
+[
+    {
+        "name": "DCW01.FABRIKAM.LOCAL",
+        "services": [
+            {
+                "name": "Windows Update",
+                "status": "Running",
+                "startup": "Manual"
+            }
+        ]
+    },
+    {
+        "name": "DCW02.FABRIKAM.LOCAL",
+        "services": [
+            {
+                "name": "Windows Update",
+                "status": "Running",
+                "startup": "Manual"
+            }
+        ]
+    }
+]
