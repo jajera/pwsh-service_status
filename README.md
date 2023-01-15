@@ -1,4 +1,4 @@
-# pwsh-disk_utilization
+# pwsh-service_status
 
 # Requirements:
 The server where this script executes must have access to the wmi of the remote server.
